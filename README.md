@@ -1,1 +1,1 @@
-# INF8808---Data-visualization
+# INF8808-Data-visualization
